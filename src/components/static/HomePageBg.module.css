@@ -1,0 +1,11 @@
+.backImg {
+    background-image: url("https://images.getbento.com/accounts/f7efa3ac70fc351a1aa21cbd6bbe24c6/media/images/32760Bresca_Moss_Wall_2_Rey_Lopez.jpg?fit=max&w=1800&auto=format,compress");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    padding: 200px 0px;
+    text-transform: uppercase;
+}
