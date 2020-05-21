@@ -24,8 +24,8 @@ const initState = {
   foodMenu: FoodMenu,
   tableSelected: "",
   admin: {
-    email: "abhishek@masai.com",
-    password: "masai",
+    email: "sakshi@gmail.com",
+    password: "sakshi",
     isLoggedIn: false
   },
   totalOrder: [],
